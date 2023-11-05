@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: kazyklas/backstage-test-3
     argocd/app-name: nginx
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: unknown
